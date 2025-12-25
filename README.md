@@ -20,14 +20,8 @@ Examples of phishing indicators:
 
 ## 📁 Project Structure
 
-phishdetect/
-├── detector.cpp # Main C++ detection code
-├── signatures.txt # List of known phishing patterns
-├── reports/
-│ └── project-report.pdf
-├── slides/
-│ └── phishing-detector-presentation.pptx
-├── README.md
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/097db3fb-e386-46e6-ab7a-5558872fd124" />
+
 
 ## 🖥️ How to Run
 
